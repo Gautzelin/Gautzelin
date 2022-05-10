@@ -1,6 +1,4 @@
-### Hola Amigos 👋
 
-<!--
 **Me llamo Joselyn Correa **
 
 - 🔭 Soy studiante de la EPN.
