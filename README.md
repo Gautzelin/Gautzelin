@@ -1,7 +1,7 @@
 ### Hola Amigos 👋
 
 <!--
-**Me llamo Joselyn Correa**
+**Me llamo Joselyn Correa **
 
 - 🔭 Soy studiante de la EPN.
 - 🌱 Estoy aprendiendo Ingles.
